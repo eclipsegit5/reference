@@ -12,6 +12,7 @@ s1.number = 123;
 s1.name = "Aish";
 System.out.println(s1.number+" "+s1.name);
 System.out.println("finished");
+System.out.println("finished2");
 	}
 
 }
